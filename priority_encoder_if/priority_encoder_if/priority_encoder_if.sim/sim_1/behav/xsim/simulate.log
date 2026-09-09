@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Tiempo = 0 | p_in = 0000 | p_code = 000
+Tiempo = 10000 | p_in = 0010 | p_code = 010
+Tiempo = 20000 | p_in = 0011 | p_code = 010
+Tiempo = 30000 | p_in = 0100 | p_code = 011
+Tiempo = 40000 | p_in = 0101 | p_code = 011
+Tiempo = 50000 | p_in = 1000 | p_code = 100
+Tiempo = 60000 | p_in = 1111 | p_code = 100
+$stop called at time : 70 ns : File "C:/priority_encoder_if/priority_encoder_if/priority_encoder_if.srcs/sim_1/new/tb_priority_encoder_if.sv" Line 53
