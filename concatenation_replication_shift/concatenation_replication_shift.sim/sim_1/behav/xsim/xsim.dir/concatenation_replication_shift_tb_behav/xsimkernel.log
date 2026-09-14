@@ -1,0 +1,4 @@
+Running: xsim.dir/concatenation_replication_shift_tb_behav/xsimk.exe -simmode gui -wdb concatenation_replication_shift_tb_behav.wdb -simrunnum 0 -socket 60144
+Design successfully loaded
+Design Loading Memory Usage: 29928 KB (Peak: 29928 KB)
+Design Loading CPU Usage: 1468 ms
