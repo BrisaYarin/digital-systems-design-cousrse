@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sat Sep 19 18:03:28 2026
+# Process ID         : 16004
+# Current directory  : C:/TAREA1_DSD/conditional_operator
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent10836 C:\TAREA1_DSD\conditional_operator\conditional_operator.xpr
+# Log file           : C:/TAREA1_DSD/conditional_operator/vivado.log
+# Journal file       : C:/TAREA1_DSD/conditional_operator\vivado.jou
+# Running On         : Yarin
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz
+# CPU Frequency      : 1805 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 34068 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 36216 MB
+# Available Virtual  : 28150 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/TAREA1_DSD/conditional_operator/conditional_operator.xpr
+update_compile_order -fileset sources_1
