@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../bidiretional_port.srcs/sources_1/new/bidirectional_port.sv" \
+"../../../../bidiretional_port.srcs/sim_1/new/bidirectional_port_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
